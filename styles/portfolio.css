@@ -95,7 +95,14 @@ nav a{
 main{
     max-width: 1140px;
     margin: 0 auto;
+
+
 }
+
+#What-i-do-description{
+    padding:30px 150px
+}
+
 /*About Section styles*/
 .about{
     padding: 130px;
@@ -107,7 +114,11 @@ main{
 .about-info-container{
     display: flex;
     justify-content: space-around;
+    
 }
 .about-info{
     text-align: center;
+}
+.info-description{
+    font-weight: bold;
 }

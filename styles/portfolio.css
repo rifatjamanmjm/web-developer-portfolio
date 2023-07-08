@@ -146,9 +146,32 @@ color: #757575;
 /*resume Section styles*/
 .resume-column-title{
 color:#474747;
-
 font-size: 30px;
-
 font-weight: 700;
+margin-bottom: 10px;
+
+}
+
+.resume-containner{
+    display: flex;
+    gap:50px
+
+}
+.resume-item-description .resume-item-inistitute{
+    color: #757575;
+}
+
+.resume-containner hr{
+    margin: 30px;
+}
+
+.resume-item-inistitute{
+    margin-bottom: 20px;
+    margin-top: 0px;
+}
+.download-cv{
+    text-align:center;
+    margin-top: 50px;
+    
 
 }
